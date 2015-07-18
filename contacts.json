@@ -1,1 +1,7 @@
-[{"avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/angelcolberg/128.jpg","name":"Ada Blick"}]
+[
+  {"avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/angelcolberg/128.jpg","name":"Ada Blick"},
+  {"avatar":"https://s3.amazonaws.com/robdodson/images/addy.jpg","name":"Addy Osmani"},
+  {"avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mirfanqureshi/128.jpg","isFavorite":true,"name":"Adelbert Homenick"},
+  {"avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/petebernardo/128.jpg","isInCircles":true,"name":"Aida Ferry DVM"},
+  {"avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mymyboy/128.jpg","name":"Alden Windler PhD"}
+]
