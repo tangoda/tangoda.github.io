@@ -1,5 +1,5 @@
 [
-  {"avatar":"http://www.portalmedicinaesaude.com.br/images/banner_saocamilo.jpg","name":"Hospital Infantil São Camilo", "address": "Av. Silviano Brandão, 1600"},
-  {"avatar":"http://www.materdei.com.br/md-admin/fotos/resize.php?imagem=&largura=418&altura=235","name":"Hospital Mater Dei", "address": "Rua Gonçalves Dias, 2700"},
-  {"avatar":"http://www.enf.ufmg.br/site_novo/uploads/smartsection/images/item/logomarca.jpg","name":"Hospital das Clínicas da UFMG", "address": "Av. Prof. Alfredo Balena, 110"}
+  {"avatar":"","name":"Hospital Infantil São Camilo", "address": "Av. Silviano Brandão, 1600"},
+  {"avatar":"","name":"Hospital Mater Dei", "address": "Rua Gonçalves Dias, 2700"},
+  {"avatar":"","name":"", "address": "Av. Prof. Alfredo Balena, 110"}
 ]
